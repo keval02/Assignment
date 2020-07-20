@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layoutTwoDp">2dp</dimen>
+    <dimen name="layoutFourDp">4dp</dimen>
+    <dimen name="layoutEightDp">8dp</dimen>
+    <dimen name="layoutTwelveDp">12dp</dimen>
+    <dimen name="layoutSixteenDp">16dp</dimen>
+    <dimen name="textViewTwelveSp">12sp</dimen>
+    <dimen name="textViewFourteenSp">14sp</dimen>
+    <dimen name="textViewSixteenSp">16sp</dimen>
+    <dimen name="textViewEighteenSp">18sp</dimen>
+    <dimen name="circleImageViewHeight">96dp</dimen>
+    <dimen name="circleImageViewWidth">96dp</dimen>
+    <dimen name="acceptDeclineImageViewHeight">40dp</dimen>
+    <dimen name="acceptDeclineImageViewWidth">40dp</dimen>
+
+</resources>

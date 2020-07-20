@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE5A61</color>
+    <color name="colorPrimaryDark">#99353C</color>
+    <color name="colorAccent">#FE5A61</color>
+    <color name="userNameTextColor">#3A9399</color>
+    <color name="userDetailsTextColor">#757575</color>
+    <color name="acceptedBackgroundColor">#00af80</color>
+    <color name="declineBackgroundColor">#FE5A61</color>
+    <color name="circleImageViewBorderColor">#FF000000</color>
+</resources>

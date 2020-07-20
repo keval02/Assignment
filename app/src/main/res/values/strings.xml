@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="txt_decline">Decline</string>
+    <string name="txt_accept">Accept</string>
+
+
+
+    // Messages Strings
+
+    <string name="message_something_went_wrong">Something went wrong! Please try after some time.</string>
+    <string name="message_user_accepted">Member Accepted</string>
+    <string name="message_user_decline">Member Decline</string>
+</resources>
